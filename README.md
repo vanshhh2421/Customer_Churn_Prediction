@@ -5,7 +5,7 @@ This project focuses on predicting customer churn using various machine learning
 The project is implemented in a Jupyter Notebook:
 Customer_Churn_Prediction_using_ML.ipynb
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 Customer churn is a significant business challenge across many subscription-based industries. By analyzing customer behavior and demographic data, this project builds ML models that classify whether a customer will churn or not.
 
@@ -25,7 +25,7 @@ Evaluation metrics
 
 Final model selection
 
-📂 Dataset
+# 📂 Dataset
 
 The dataset typically contains:
 
@@ -39,7 +39,7 @@ Churn label (Yes/No)
 
 (If your dataset has special/unique columns, share them and I’ll customize the README.)
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 Python 3
 
@@ -53,7 +53,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-🧹 Data Preprocessing
+# 🧹 Data Preprocessing
 
 Key preprocessing steps include:
 
@@ -65,7 +65,7 @@ Scaling numerical values
 
 Splitting dataset into train & test sets
 
-🤖 Machine Learning Models Used
+# 🤖 Machine Learning Models Used
 
 Models typically evaluated:
 
@@ -95,7 +95,7 @@ Confusion Matrix
 
 (Tell me the exact models you used, and I’ll update this section.)
 
-📊 Model Evaluation
+# 📊 Model Evaluation
 
 The models are compared using:
 
@@ -107,7 +107,7 @@ Feature importance (for tree-based models)
 
 The best-performing model is selected based on overall performance and business interpretability.
 
-🧾 Results
+# 🧾 Results
 
 The final model achieved an accuracy of X%
 
